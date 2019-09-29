@@ -7,6 +7,7 @@ Created on Thu Nov 29 09:56:00 2018
 
 @ Prof. Kurtzman's Lab
 """
+# compare the auc 
 import sys, os
 import glob, matplotlib, xlsxwriter
 
