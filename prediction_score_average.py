@@ -7,7 +7,7 @@ Created on Wed Feb 27 11:24:32 2019
 
 @ Prof. Kurtzman's Lab
 """
-# calculate the average prediction of actives and decoys in each targets 
+# calculate the average prediction of actives and decoys in each targets of DUDE 
 
 
 import os 
