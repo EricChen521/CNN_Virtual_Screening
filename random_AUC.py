@@ -7,7 +7,7 @@ Created on Tue Mar 19 16:53:29 2019
 
 @ Prof. Kurtzman's Lab
 """
-
+# draw a random auc line
 import numpy as np
 
 from sklearn.metrics import roc_auc_score
