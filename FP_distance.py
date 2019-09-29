@@ -7,7 +7,7 @@ Created on Fri Dec 14 09:04:07 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+#calculate the average fingerprint distance 
 import os 
 import numpy as np
 print(os.getcwd())
