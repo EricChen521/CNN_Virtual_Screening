@@ -7,7 +7,7 @@ Created on Thu Sep 27 15:32:30 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+# find the ligand center
 import os 
 import urllib.request
 os.chdir("/Users/eric/Desktop/DUDe_ligand_center")
