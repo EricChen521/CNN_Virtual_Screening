@@ -8,6 +8,7 @@ Created on Tue Jan  8 14:57:03 2019
 @ Prof. Kurtzman's Lab
 """
 
+# test the sensity to pose
 import os
 
 print(os.getcwd())
