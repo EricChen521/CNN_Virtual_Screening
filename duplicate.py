@@ -7,6 +7,7 @@ Created on Sat Jun  8 20:31:32 2019
 
 @ Prof. Kurtzman's Lab
 """
+#find the duplicate compound
 import os 
 
 file=open("duplicates.txt").readlines()
