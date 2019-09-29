@@ -7,7 +7,7 @@ Created on Tue Dec 11 21:05:20 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+# write auc value to excel form
 import os 
 
 print(os.getcwd())
