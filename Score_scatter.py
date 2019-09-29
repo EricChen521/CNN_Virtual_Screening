@@ -8,7 +8,7 @@ Created on Thu Dec  6 15:29:23 2018
 @ Prof. Kurtzman's Lab
 """
 
-# Plot the prediction scores of XIAP and Target
+# Plot prediction scores of XIAP and Target
 import os
 
 print(os.getcwd())
