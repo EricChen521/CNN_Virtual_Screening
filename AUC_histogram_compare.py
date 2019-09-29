@@ -8,6 +8,7 @@ Created on Mon Mar 11 17:32:38 2019
 @ Prof. Kurtzman's Lab
 """
 
+# compare the auc using default and ad dataset
 import os
 
 print(os.getcwd())
