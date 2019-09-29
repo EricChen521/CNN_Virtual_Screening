@@ -7,7 +7,7 @@ Created on Wed Oct 10 21:08:24 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+# add binart catagory for compound
 import os
 import h5py
 print(os.getcwd())
