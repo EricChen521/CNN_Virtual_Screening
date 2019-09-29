@@ -7,7 +7,7 @@ Created on Mon Dec  3 21:00:36 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+# compare two models
 import sys, os
 import glob, matplotlib, xlsxwriter
 os.chdir("/Users/eric/Desktop/CNN_manuscript/Per_target_AUC/receptor_model_prediction/")
