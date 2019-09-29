@@ -7,7 +7,7 @@ Created on Mon Jul  9 12:08:39 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+# auc from vina and CNN
 import os
 
 print(os.getcwd())
