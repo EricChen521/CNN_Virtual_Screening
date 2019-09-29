@@ -7,7 +7,7 @@ Created on Wed Dec 12 21:18:45 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+# compare the performance of three models on DUDE
 
 import os
 
