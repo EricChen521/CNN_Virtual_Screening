@@ -7,7 +7,7 @@ Created on Sat Oct 20 14:19:10 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+#creat a empty grid for the target"
 import os
 from gridData import Grid
 import numpy as np
