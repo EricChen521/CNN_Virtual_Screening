@@ -7,7 +7,7 @@ Created on Wed Jun 27 17:17:02 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+#parsing the gnina output file
 import os
 import sys
 
