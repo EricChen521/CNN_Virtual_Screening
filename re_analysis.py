@@ -7,7 +7,7 @@ Created on Tue Jun 11 13:54:29 2019
 
 @ Prof. Kurtzman's Lab
 """
-
+# suggroup auc
 import os 
 
 from numpy import genfromtxt
