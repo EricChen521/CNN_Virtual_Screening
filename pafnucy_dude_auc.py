@@ -7,7 +7,7 @@ Created on Wed Sep 12 21:41:40 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+# the performace of pafnucy on DUDe
 import os, glob
 
 files=glob.glob("*csv")
