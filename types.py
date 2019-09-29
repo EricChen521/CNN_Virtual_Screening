@@ -7,7 +7,7 @@ Created on Mon Nov  5 13:47:34 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+#generate the types input file
 import os
 
 os.getcwd()
