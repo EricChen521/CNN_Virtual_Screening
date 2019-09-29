@@ -8,7 +8,7 @@ Created on Tue Oct  2 17:04:28 2018
 @ Prof. Kurtzman's Lab
 """
 
-# this script will scale the value in to value/Max_value, therefore in the new dx file, the max value 
+#  script will scale the value in to value/Max_value, therefore in the new dx file, the max value 
 # will be 1, others are the percentage of the max.
 
 
