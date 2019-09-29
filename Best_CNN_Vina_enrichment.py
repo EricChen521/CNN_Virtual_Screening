@@ -7,7 +7,7 @@ Created on Fri Jun 29 14:01:50 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+# pick the best pose for the auc calculation
 import os, sys
 
 #print(os.getcwd())
