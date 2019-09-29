@@ -7,7 +7,7 @@ Created on Thu Oct  4 17:53:33 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+#extract the binding affinity value
 import os, math
 
 print(os.getcwd())
