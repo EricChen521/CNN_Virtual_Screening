@@ -9,7 +9,7 @@ Created on Wed May 29 14:59:40 2019
 """
 
 # plot the correlation line of the predicted scores with/without receptor 
-# in
+# 
 import os 
 
 print(os.getcwd())
