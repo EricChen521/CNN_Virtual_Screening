@@ -7,7 +7,7 @@ Created on Tue Mar 12 11:20:15 2019
 
 @ Prof. Kurtzman's Lab
 """
-
+# generate the trian file for acive compound
 import os
 
 print(os.getcwd())
