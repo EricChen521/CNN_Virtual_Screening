@@ -7,7 +7,7 @@ Created on Thu Sep 13 21:31:06 2018
 
 @ Prof. Kurtzman's Lab
 """
-
+# three models' reaction to pose chnange 
 import os
 
 f_vina=open("actives_final_docked_vina.sdf","r").readlines()
